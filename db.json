@@ -1,0 +1,224 @@
+{
+   "posts":[
+      {
+         "id":1,
+         "title":"Etiam faucibus cursus urna.",
+         "wasRead":false,
+         "isFavorite":false,
+         "postInformation":{
+            "id":1,
+            "description":"Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.\n\nIn hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.",
+            "user":{
+               "id":1,
+               "name":"Ezra Keyzor",
+               "phone":"+62 314 745 1068",
+               "email":"ekeyzor0@ucsd.edu",
+               "webSite":"https://jiathis.com/risus/dapibus/augue/vel/accumsan.png"
+            },
+            "comments":[
+               "Great post",
+               "I really don't like that",
+               "Cell description which explains the consequences of the above action"
+            ]
+         }
+      },
+      {
+         "id":2,
+         "title":"Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci.",
+         "wasRead":false,
+         "isFavorite":true,
+         "postInformation":{
+            "id":2,
+            "description":"Phasellus in felis. Donec semper sapien a libero. Nam dui.\n\nProin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.",
+            "user":{
+               "id":2,
+               "name":"Grazia Prozescky",
+               "phone":"+60 277 467 0235",
+               "email":"gprozescky1@mit.edu",
+               "webSite":"https://constantcontact.com/aenean/lectus/pellentesque/eget.xml"
+            },
+            "comments":[
+               "Great post",
+               "I really don't like that",
+               "Cell description which explains the consequences of the above action"
+            ]
+         }
+      },
+      {
+         "id":3,
+         "title":"Proin risus. Praesent lectus.",
+         "wasRead":true,
+         "isFavorite":false,
+         "postInformation":{
+            "id":3,
+            "description":"Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.",
+            "user":{
+               "id":3,
+               "name":"Currey Petrillo",
+               "phone":"+351 534 326 8494",
+               "email":"cpetrillo2@devhub.com",
+               "webSite":"https://nbcnews.com/tellus/nisi/eu/orci/mauris/lacinia/sapien.xml"
+            },
+            "comments":[
+               "Great post",
+               "I really don't like that",
+               "Cell description which explains the consequences of the above action"
+            ]
+         }
+      },
+      {
+         "id":4,
+         "title":"Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl. Aenean lectus.",
+         "wasRead":false,
+         "isFavorite":false,
+         "postInformation":{
+            "id":4,
+            "description":"Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.",
+            "user":{
+               "id":4,
+               "name":"Odetta Twist",
+               "phone":"+86 712 767 0613",
+               "email":"otwist3@thetimes.co.uk",
+               "webSite":"http://imdb.com/lectus/pellentesque.jsp"
+            },
+            "comments":[
+               "Great post",
+               "I really don't like that",
+               "Cell description which explains the consequences of the above action"
+            ]
+         }
+      },
+      {
+         "id":5,
+         "title":"Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus. Curabitur at ipsum ac tellus semper interdum.",
+         "wasRead":false,
+         "isFavorite":false,
+         "postInformation":{
+            "id":5,
+            "description":"Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.",
+            "user":{
+               "id":5,
+               "name":"Ferris Faulkes",
+               "phone":"+86 428 590 9945",
+               "email":"ffaulkes4@vk.com",
+               "webSite":"https://unc.edu/in/imperdiet.jpg"
+            },
+            "comments":[
+               "Great post",
+               "I really don't like that",
+               "Cell description which explains the consequences of the above action"
+            ]
+         }
+      },
+      {
+         "id":6,
+         "title":"Pellentesque at nulla. Suspendisse potenti.",
+         "wasRead":true,
+         "isFavorite":true,
+         "postInformation":{
+            "id":6,
+            "description":"Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.",
+            "user":{
+               "id":6,
+               "name":"Kathryne Cadwell",
+               "phone":"+46 447 235 8206",
+               "email":"kcadwell5@nhs.uk",
+               "webSite":"http://arstechnica.com/nam/nulla.json"
+            },
+            "comments":[
+               "Great post",
+               "I really don't like that",
+               "Cell description which explains the consequences of the above action"
+            ]
+         }
+      },
+      {
+         "id":7,
+         "title":"Duis mattis egestas metus. Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.",
+         "wasRead":false,
+         "isFavorite":true,
+         "postInformation":{
+            "id":7,
+            "description":"Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",
+            "user":{
+               "id":7,
+               "name":"Wilbert McCabe",
+               "phone":"+92 584 999 3587",
+               "email":"wmccabe6@g.co",
+               "webSite":"http://prlog.org/lectus/aliquam/sit/amet/diam/in/magna.jsp"
+            },
+            "comments":[
+               "Great post",
+               "I really don't like that",
+               "Cell description which explains the consequences of the above action"
+            ]
+         }
+      },
+      {
+         "id":8,
+         "title":"Suspendisse accumsan tortor quis turpis. Sed ante. Vivamus tortor.",
+         "wasRead":true,
+         "isFavorite":false,
+         "postInformation":{
+            "id":8,
+            "description":"Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.\n\nInteger tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.",
+            "user":{
+               "id":8,
+               "name":"Vic Barrie",
+               "phone":"+48 875 785 3788",
+               "email":"vbarrie7@fda.gov",
+               "webSite":"http://cafepress.com/vestibulum.html"
+            },
+            "comments":[
+               "Great post",
+               "I really don't like that",
+               "Cell description which explains the consequences of the above action"
+            ]
+         }
+      },
+      {
+         "id":9,
+         "title":"Phasellus id sapien in sapien iaculis congue.",
+         "wasRead":true,
+         "isFavorite":true,
+         "postInformation":{
+            "id":9,
+            "description":"Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.\n\nCum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",
+            "user":{
+               "id":9,
+               "name":"Melissa Ughetti",
+               "phone":"+81 600 876 3908",
+               "email":"mughetti8@china.com.cn",
+               "webSite":"http://paypal.com/consequat/nulla/nisl/nunc/nisl/duis.jsp"
+            },
+            "comments":[
+               "Great post",
+               "I really don't like that",
+               "Cell description which explains the consequences of the above action"
+            ]
+         }
+      },
+      {
+         "id":10,
+         "title":"Curabitur at ipsum ac tellus semper interdum. Mauris ullamcorper purus sit amet nulla. Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam.",
+         "wasRead":true,
+         "isFavorite":false,
+         "postInformation":{
+            "id":10,
+            "description":"Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.",
+            "user":{
+               "id":10,
+               "name":"Bennie Collacombe",
+               "phone":"+86 658 217 7269",
+               "email":"bcollacombe9@comsenz.com",
+               "webSite":"http://gnu.org/phasellus/id.jsp"
+            },
+            "comments":[
+               "Great post",
+               "I really don't like that",
+               "Cell description which explains the consequences of the above action"
+            ]
+         }
+      }
+   ]
+}
