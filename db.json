@@ -197,28 +197,6 @@
                 "Cell description which explains the consequences of the above action"
              ]
           }
-       },
-       {
-          "id":10,
-          "title":"Mauris sit amet eros.",
-          "wasRead":false,
-          "isFavorite":false,
-          "postInformation":{
-             "id":10,
-             "description":"Suspendisse potenti. Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.",
-             "user":{
-                "id":10,
-                "name":"Jorgan Lillywhite",
-                "phone":"+33 647 839 6349",
-                "email":"jlillywhite9@sun.com",
-                "webSite":"http://posterous.com/turpis/elementum/ligula/vehicula/consequat/morbi.aspx"
-             },
-             "comments":[
-                "Great post",
-                "I really don't like that",
-                "Cell description which explains the consequences of the above action"
-             ]
-          }
        }
     ]
  }
