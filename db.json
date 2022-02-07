@@ -4,7 +4,7 @@
           "id":1,
           "title":"Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin risus. Praesent lectus.",
           "wasRead":false,
-          "isFavorite":true,
+          "isFavorite":false,
           "postInformation":{
              "id":1,
              "description":"Cras in purus eu magna vulputate luctus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien.",
@@ -26,7 +26,7 @@
           "id":2,
           "title":"Duis mattis egestas metus. Aenean fermentum. Donec ut mauris eget massa tempor convallis.",
           "wasRead":false,
-          "isFavorite":true,
+          "isFavorite":false,
           "postInformation":{
              "id":2,
              "description":"Nunc purus. Phasellus in felis. Donec semper sapien a libero. Nam dui.",
@@ -47,7 +47,7 @@
        {
           "id":3,
           "title":"Donec quis orci eget orci vehicula condimentum. Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo.",
-          "wasRead":true,
+          "wasRead":false,
           "isFavorite":false,
           "postInformation":{
              "id":3,
@@ -69,8 +69,8 @@
        {
           "id":4,
           "title":"In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem. Duis aliquam convallis nunc.",
-          "wasRead":true,
-          "isFavorite":true,
+          "wasRead":false,
+          "isFavorite":false,
           "postInformation":{
              "id":4,
              "description":"Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem. Fusce consequat.",
@@ -92,7 +92,7 @@
           "id":5,
           "title":"Curabitur at ipsum ac tellus semper interdum. Mauris ullamcorper purus sit amet nulla. Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam.",
           "wasRead":false,
-          "isFavorite":true,
+          "isFavorite":false,
           "postInformation":{
              "id":5,
              "description":"In eleifend quam a odio. In hac habitasse platea dictumst. Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat. Curabitur gravida nisi at nibh.",
@@ -113,7 +113,7 @@
        {
           "id":6,
           "title":"Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.",
-          "wasRead":true,
+          "wasRead":false,
           "isFavorite":false,
           "postInformation":{
              "id":6,
@@ -190,6 +190,28 @@
                 "phone":"+86 710 303 7978",
                 "email":"hchadband8@umn.edu",
                 "webSite":"https://hp.com/hac/habitasse/platea/dictumst.png"
+             },
+             "comments":[
+                "Great post",
+                "I really don't like that",
+                "Cell description which explains the consequences of the above action"
+             ]
+          }
+       },
+       {
+          "id":10,
+          "title":"Mauris sit amet eros.",
+          "wasRead":false,
+          "isFavorite":false,
+          "postInformation":{
+             "id":10,
+             "description":"Suspendisse potenti. Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.",
+             "user":{
+                "id":10,
+                "name":"Jorgan Lillywhite",
+                "phone":"+33 647 839 6349",
+                "email":"jlillywhite9@sun.com",
+                "webSite":"http://posterous.com/turpis/elementum/ligula/vehicula/consequat/morbi.aspx"
              },
              "comments":[
                 "Great post",
