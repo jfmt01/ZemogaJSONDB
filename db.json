@@ -92,7 +92,7 @@
           "id":5,
           "title":"Curabitur at ipsum ac tellus semper interdum. Mauris ullamcorper purus sit amet nulla. Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam.",
           "wasRead":false,
-          "isFavorite":false,
+          "isFavorite":true,
           "postInformation":{
              "id":5,
              "description":"In eleifend quam a odio. In hac habitasse platea dictumst. Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat. Curabitur gravida nisi at nibh.",
@@ -180,7 +180,7 @@
           "id":9,
           "title":"Aenean lectus. Pellentesque eget nunc.",
           "wasRead":false,
-          "isFavorite":false,
+          "isFavorite":true,
           "postInformation":{
              "id":9,
              "description":"In congue. Etiam justo. Etiam pretium iaculis justo. In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.",
@@ -202,7 +202,7 @@
           "id":10,
           "title":"Mauris sit amet eros.",
           "wasRead":false,
-          "isFavorite":false,
+          "isFavorite":true,
           "postInformation":{
              "id":10,
              "description":"Suspendisse potenti. Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.",
