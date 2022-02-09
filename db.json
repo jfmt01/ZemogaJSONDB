@@ -20,7 +20,7 @@
                "Great post",
                "I really don't like that"
             ],
-            isFavInfo:false
+            "isFavInfo":false
          }
       },
       {
@@ -43,7 +43,7 @@
                "Cell description which explains the consequences of the above action",
                "I really don't like that"
             ],
-            isFavInfo:false
+            "isFavInfo":false
          }
       },
       {
@@ -67,7 +67,7 @@
                "I really don't like that",
                "Great post"
             ],
-            isFavInfo:false
+            "isFavInfo":false
          }
       },
       {
@@ -90,7 +90,7 @@
                "Cell description which explains the consequences of the above action",
                "Great post"
             ],
-            isFavInfo:false
+            "isFavInfo":false
          }
       },
       {
@@ -114,7 +114,7 @@
                "Great post",
                "I really don't like that"
             ],
-            isFavInfo:false
+            "isFavInfo":false
          }
       },
       {
@@ -138,7 +138,7 @@
                "Great post",
                "Cell description which explains the consequences of the above action"
             ],
-            isFavInfo:false
+            "isFavInfo":false
          }
       },
       {
@@ -161,7 +161,7 @@
                "Great post",
                "I really don't like that"
             ],
-            isFavInfo:false
+            "isFavInfo":false
          }
       },
       {
@@ -184,7 +184,7 @@
                "Cell description which explains the consequences of the above action",
                "I really don't like that"
             ],
-            isFavInfo:false
+            "isFavInfo":false
          }
       },
       {
@@ -207,7 +207,7 @@
                "Cell description which explains the consequences of the above action",
                "Great post"
             ],
-            isFavInfo:false
+            "isFavInfo":false
          }
       },
       {
@@ -230,7 +230,7 @@
                "Cell description which explains the consequences of the above action",
                "Great post"
             ],
-            isFavInfo:false
+            "isFavInfo":false
          }
       }
    ]
