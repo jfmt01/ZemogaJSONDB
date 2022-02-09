@@ -19,7 +19,8 @@
                "Cell description which explains the consequences of the above action",
                "Great post",
                "I really don't like that"
-            ]
+            ],
+            isFavInfo:false
          }
       },
       {
@@ -41,7 +42,8 @@
                "Great post",
                "Cell description which explains the consequences of the above action",
                "I really don't like that"
-            ]
+            ],
+            isFavInfo:false
          }
       },
       {
@@ -64,7 +66,8 @@
                "Great post",
                "I really don't like that",
                "Great post"
-            ]
+            ],
+            isFavInfo:false
          }
       },
       {
@@ -86,7 +89,8 @@
                "I really don't like that",
                "Cell description which explains the consequences of the above action",
                "Great post"
-            ]
+            ],
+            isFavInfo:false
          }
       },
       {
@@ -109,7 +113,8 @@
                "Cell description which explains the consequences of the above action",
                "Great post",
                "I really don't like that"
-            ]
+            ],
+            isFavInfo:false
          }
       },
       {
@@ -132,7 +137,8 @@
                "Cell description which explains the consequences of the above action",
                "Great post",
                "Cell description which explains the consequences of the above action"
-            ]
+            ],
+            isFavInfo:false
          }
       },
       {
@@ -154,7 +160,8 @@
                "Cell description which explains the consequences of the above action",
                "Great post",
                "I really don't like that"
-            ]
+            ],
+            isFavInfo:false
          }
       },
       {
@@ -176,7 +183,8 @@
                "Great post",
                "Cell description which explains the consequences of the above action",
                "I really don't like that"
-            ]
+            ],
+            isFavInfo:false
          }
       },
       {
@@ -198,7 +206,8 @@
                "I really don't like that",
                "Cell description which explains the consequences of the above action",
                "Great post"
-            ]
+            ],
+            isFavInfo:false
          }
       },
       {
@@ -220,7 +229,8 @@
                "I really don't like that",
                "Cell description which explains the consequences of the above action",
                "Great post"
-            ]
+            ],
+            isFavInfo:false
          }
       }
    ]
